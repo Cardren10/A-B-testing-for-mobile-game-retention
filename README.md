@@ -9,3 +9,5 @@ In this project I perform A/B testing for the player retention in the two groups
 We can see in our KDE plot that there is a difference in the means of the sampled retention rates for the two groups.
 
 We can further prove this with a Z-test. A Z-test of both the 1-day and 7-day retention rates provides the following.
+
+![](Images/Cookie%20Cats%20Z-test.PNG)
